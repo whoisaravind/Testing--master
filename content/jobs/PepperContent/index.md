@@ -1,15 +1,10 @@
 ---
-date: '2021-07-07'
-title: 'Freelance Content Writer'
-company: 'Pepper'
-range: 'July 2021 - Present'
-url: 'https://www.peppercontent.io'
+date: '2021-01-01'
+title: 'Delegate'
+company: 'HPAIR'
+range: 'January2021'
+url: 'https://www.hpair.org/'
 ---
 
-- Creating Tech Content as a freelancer for the content giant [Pepper Content](https://www.peppercontent.io).
-
-- Submitted tech blogs on various popular topics for American Technology Consulting in 2500 words with a rating of 4.5/5.0.
-
-- Submitted a White Paper for Nous Infosystems in 1500 words with a rating of 5.0/5.0.
-
-- View all my submitted articles and blogs [here](https://drive.google.com/drive/folders/1e8rnyb-r07s6Ss8QInvjiLU4rhJAYTCZ?usp=sharing).
+- Selected as one of the 300 delegates from a pool of thousands of applicants from all over the world for the virtual Harvard Project for Asian and International Relations (HPAIR), Harvard conference 2021.
+- HPAIR opens up a global avenue for its delegates where "leaders of today and connect with the leaders of tomorrow".
