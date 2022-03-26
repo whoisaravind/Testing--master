@@ -2,14 +2,14 @@
 title: 'About Me'
 avatar: 'me.png'
 skills:
-  - Ahrefs
   - Hubspot
   - Jira
   - Canva
   - Tableau
-  - Google Analytics
   - MixPanel
-  - Airtable
+  - Google Analytics
+  - Google Suite
+  - Advanced Excel
 ---
 
 Hello! I have previously worked as Market Research Intern at [Fashion TV](https://www.fashiontv.com/) in the business vertical of [FTV SOPA](http://ftvschoolofperformingarts.in/) in the marketing team.

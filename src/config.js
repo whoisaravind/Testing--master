@@ -4,9 +4,9 @@ module.exports = {
     'Aravindhan is a MBA Student at LPU, who loves learning new things in the intersection of Marketing and Product Management.',
   siteKeywords:
     'Aravindhan, Aravindhan N, AravindNK, Aravind NK, whoisaravind, MBA, LPU, Product Manager, Maketer, Tamil nadu, perambalur, punjab, lpuian, digital marketing',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+  siteUrl: 'https://aravindnk.com/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
+  googleAnalyticsID: 'G-Y80GG4QN7N',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Aravindhan N',
   location: 'Tamil Nadu, India',
