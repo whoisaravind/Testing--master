@@ -8,4 +8,4 @@ tech:
 showInProjects: true
 ---
 
-Designed and Deployed the Spic Macay LPU Chapter's responsive website by using no code platform Wix.
+Designed and Deployed the Spic Macay LPU Chapter's website by using no code platform Wix.

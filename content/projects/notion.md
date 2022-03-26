@@ -5,9 +5,8 @@ external: 'https://whoisaravind.notion.site/Aravindhan-f703470d702e41628ec221ddc
 tech:
   - Notion
   - Cloud Flare
-  - Workers
 company: ''
 showInProjects: true
 ---
 
-Portfolio Website built on Notion and hosted on Cloud flare workers.
+Responsive Portfolio Website built on Notion and hosted on Cloud flare workers.
