@@ -5,6 +5,5 @@ github: ''
 external: ''
 tech:
   -
-company: ''
 showInProjects: false
 ---
