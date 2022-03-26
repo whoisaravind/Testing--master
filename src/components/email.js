@@ -21,7 +21,7 @@ const StyledLinkWrapper = styled.div`
   }
 `;
 const StyledEmailLink = styled.a`
-  font-family: ${fonts.SFMono};
+  font-family: ${fonts.Mono};
   font-size: ${fontSizes.xxs};
   letter-spacing: 0.1em;
   writing-mode: vertical-rl;
