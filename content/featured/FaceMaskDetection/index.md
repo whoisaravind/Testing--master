@@ -1,17 +1,16 @@
 ---
 date: '3'
-title: 'Face Mask Detection'
+title: 'Product KPI Dashboard'
 cover: 'face-mask.png'
-github: 'https://github.com/chandrikadeb7/Face-Mask-Detection'
-external: 'https://www.youtube.com/watch?v=AAkNyZlUae0'
+external: 'https://mixpanel.com/project/2645873/view/3183605/app/dashboards#id=2853987'
 tech:
-  - OpenCV
-  - TensorFlow
-  - Keras
-  - Python
+  - MixPanel
+  - Product Analytics
+  - Dashboard
+  - KPI
 showInProjects: true
 ---
 
-Face Mask Detection system to detect face masks in static images as well as in real-time video streams. Own custom dataset was built using Bing Search API and Kaggle.
-
-Inspired by Adrian Rosebrock's [PyImageSearch Blog](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/).
+Created a real-time dashboard on Mixpanel to track, analyze, and display the KPI of 'Rando Sandos', an online sandwich ordering firm in New York, US by analyzing the Acquisition and Retention metrics.
+Generated a detailed report on Engagement, Preferred payment method, viewing ingredients, Daily active users, Number of people rating, and writing reviews.
+Constructed a funnel to track user behavior from opening the app to ordering a sandwich to identify drop-offs and conversions.
