@@ -20,6 +20,4 @@ At college, I led the Business team and was a venue coordinator at LPU’s bigge
 
 Prior to that was scaling the management vertical of [Spic Macay](https://spicmacaylpu.wixsite.com/website), and Supervised a team of 10 to initiate a digital presence on various social media platforms. Designed and launched the website.
 
-I’m good at preparing Maggi on the electric kettle, Yeah it's edible.
-
 Here is a list of the things that I'm familiar with!
