@@ -5,7 +5,6 @@ external: 'https://whoisaravind.notion.site/Aravindhan-f703470d702e41628ec221ddc
 tech:
   - Notion
   - Cloud Flare
-  - Workers
 company: ''
 showInProjects: true
 ---
