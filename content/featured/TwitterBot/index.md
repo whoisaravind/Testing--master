@@ -1,14 +1,14 @@
 ---
-date: '2'
-title: 'GirlScript Twitter Bot'
-cover: 'bot.png'
-github: 'https://github.com/chandrikadeb7/Girlscript-Twitter-Bot'
-external: 'https://twitter.com/girlscript_bot'
+date: '1'
+title: 'Why Don’t Tamil People Have Last Names?'
+cover: 'tamil.png'
+external: 'https://medium.com/@aravindnk/why-dont-tamil-people-have-last-names-2d15a6490abc'
 tech:
-  - Python
-  - tweepy
-  - Twitter API
+  - Social Justice
+  - Equality
+  - Last Name
 showInProjects: true
 ---
 
-A Twitter Bot for [GirlScript Foundation](https://www.girlscript.tech/) that automatically retweets, favourites the tweets and follows the users who tweet with hashtag #girlscript. Checkout my tech blog on how to create it [HERE](https://www.geeksforgeeks.org/how-to-make-a-twitter-bot-in-python/)
+It’s the result of one of the world’s greatest social reform movements to de-stratify society. Nowhere is the power of a name greater than in India — a nation home to hundreds of ethnicities and adherents of all the world’s major religions. A place where caste divisions still permeate society.
+Know an Indian’s name and you instantly know their religion, ethnicity, and caste (a proxy for socio-economic status).
