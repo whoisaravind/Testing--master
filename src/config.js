@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Aravindhan N | MBA Student',
+  siteTitle: 'Aravindhan N',
   siteDescription:
     'Chandrika Deb is a Software Engineer at Amdocs, who loves learning new things and helping tech beginners.',
   siteKeywords:
