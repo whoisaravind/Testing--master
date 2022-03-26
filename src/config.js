@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Aravindhan N',
   siteDescription:
-    'Aravindhan is a MBA Student at LPU, who loves learning new things and intrested in intersection of Marketing and Product Management.',
+    'Aravindhan is a MBA Student at LPU, who loves learning new things in the intersection of Marketing and Product Management.',
   siteKeywords:
     'Aravindhan, Aravindhan N, AravindNK, Aravind NK, whoisaravind, MBA, LPU, Product Manager, Maketer, Tamil nadu, perambalur, punjab, lpuian, digital marketing',
   siteUrl: 'https://chandrikadeb7.github.io/',
