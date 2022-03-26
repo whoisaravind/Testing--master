@@ -1,9 +1,9 @@
 module.exports = {
   siteTitle: 'Aravindhan N',
   siteDescription:
-    'Chandrika Deb is a Software Engineer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Aravindhan is a MBA Student at LPU, who loves learning new things and intrested in intersection of Marketing and Product Management.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software engineer, face mask, face mask detection, web developer, javascript, girlscript, jamshedpur, amdocs, bit, mesra, deoghar',
+    'Aravindhan, Aravindhan N, AravindNK, Aravind NK, whoisaravind, MBA, LPU, Product Manager, Maketer, Tamil nadu, perambalur, punjab, lpuian, digital marketing',
   siteUrl: 'https://chandrikadeb7.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
