@@ -129,7 +129,7 @@ const About = ({ data }) => {
           </SkillsContainer>
         </StyledContent>
         <StyledPic>
-          <StyledAvatarLink href={linkedin}>
+          <StyledAvatarLink href={Linkedin}>
             <StyledAvatar fluid={avatar.childImageSharp.fluid} alt="Avatar" />
           </StyledAvatarLink>
         </StyledPic>
