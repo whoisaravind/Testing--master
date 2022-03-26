@@ -5,7 +5,6 @@ external: 'https://spicmacaylpu.wixsite.com/website'
 tech:
   - No Code
   - Wix
-  Company: 'LPU'
 showInProjects: true
 ---
 
