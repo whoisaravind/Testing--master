@@ -106,7 +106,7 @@ const Footer = () => {
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
-            Crafted with 💚 by Aravindhan N
+            Crafted with ♥ by Aravindhan N
           </div>
 
           {githubInfo.stars && githubInfo.forks && (
