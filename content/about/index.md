@@ -4,6 +4,8 @@ avatar: 'me.png'
 skills:
   - Hubspot
   - Jira
+  - Hotjar
+  - Figma
   - Canva
   - Tableau
   - MixPanel
