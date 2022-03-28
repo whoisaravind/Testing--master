@@ -14,10 +14,12 @@ skills:
   - Advanced Excel
 ---
 
-Hello! I have previously worked as a Market Research Intern at [Fashion TV](https://www.fashiontv.com/) in the business vertical of [FTV SOPA](http://ftvschoolofperformingarts.in/) in the marketing team.
+Hello! I'm a product of evolution.
 
-At college, I led the Business team and was a venue coordinator at [One India One World](https://happenings.lpu.in/results-of-one-india-one-world-2019/) by leading the team of 20 Volunteers for 3 consecutive days and managed 3500+ footprints.
+I have previously worked as a Market Research Intern at [Fashion TV](https://www.fashiontv.com/) in the business vertical of [FTV SOPA](http://ftvschoolofperformingarts.in/) in the marketing team.
 
-Prior to that was scaling the management vertical of [Spic Macay](https://spicmacaylpu.wixsite.com/website), and Supervised a team of 10 to initiate a digital presence on various social media platforms. Designed and launched the website.
+At college, I led the Business team and was a venue coordinator at [One India One World](https://happenings.lpu.in/results-of-one-india-one-world-2019/) by leading the team of 20+ Volunteers and managed 3500+ footprints.
+
+Prior to that was scaling the management vertical of [Spic Macay](https://spicmacaylpu.wixsite.com/website), and Supervised a team of 10 to initiate a digital presence. Designed and launched the website.
 
 Here is a list of the things that I'm familiar with!
