@@ -6,6 +6,7 @@ range: 'November 2021 - January 2022'
 url: 'https://www.fashiontv.com/'
 ---
 
-- Worked on secondary research data analysis. Experience with segmentation, concepts, and A/B testing.
-- Managed end-to-end project operations at [FTV SOPA](http://ftvschoolofperformingarts.in/), which included design research, collected, and analyzed data.
-- Produce compelling data visualizations using Statista, Typeform, Tableau, and other market research tools.
+- Collected data on consumers, competitors, and the marketplace; Managed end-to-end project operations at [FTV SOPA](http://ftvschoolofperformingarts.in/).
+- Consolidated information into a real-time dashboard in Tableau and Mixpanel, reports, and presentations.
+- Designed surveys to discover customers’ preferences. Worked on secondary research data analysis.
+- Provided competitive analysis on various companies. Performed a reliable market research SWOT analysis.
