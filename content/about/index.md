@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-avatar: 'suit.png'
+avatar: 'suitsmile.png'
 skills:
   - Hubspot
   - Jira
