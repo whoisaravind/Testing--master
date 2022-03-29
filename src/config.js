@@ -15,10 +15,6 @@ module.exports = {
   twitterHandle: '@whoisaravind',
   socialMedia: [
     {
-      name: 'GitHub',
-      url: 'https://github.com/whoisaravind',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/aravindnk/',
     },
