@@ -1,15 +1,11 @@
 ---
 date: '1'
-title: 'Why Don’t Tamil
-People Have Last Names?'
-cover: 'tamil.png'
-external: 'https://medium.com/@aravindnk/why-dont-tamil-people-have-last-names-2d15a6490abc'
+title: 'What Exactly Is a Shared Economy?'
+cover: 'shared.png'
+external: 'https://medium.com/@aravindnk/what-exactly-is-a-shared-economy-ca054474ef8b'
 tech:
-  - Social Justice
-  - Equality
-  - Last Name
+  - Shared Economy
+  - Blog
 showInProjects: true
 ---
-
-It’s the result of one of the world’s greatest social reform movements to de-stratify society. Nowhere is the power of a name greater than in India — a nation home to hundreds of ethnicities and adherents of all the world’s major religions. A place where caste divisions still permeate society.
-Know an Indian’s name and you instantly know their religion, ethnicity, and caste (a proxy for socio-economic status).
+Buying a house, having a car, and the concept of allocating possessions was formerly the pinnacle of “making it” in life. However, as technology evolves, a less-is-more, collaborative mindset is gaining traction and leaving ownership in the dust. Emancipation from ownership is becoming a more liberating concept, and sharing sown the seeds of community.
