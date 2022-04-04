@@ -9,4 +9,4 @@ tech:
 company: ''
 showInProjects: true
 ---
-It’s the result of one of the world’s greatest social reform movements to de-stratify society. If you know an Indian’s name and you instantly know their religion, ethnicity, and caste (a proxy for socio-economic status).
+It’s the result of one of the world’s greatest social reform movements to de-stratify society.
