@@ -22,6 +22,10 @@ module.exports = {
       name: 'Twitter',
       url: 'https://twitter.com/whoisaravind',
     },
+    {
+      name: 'Medium',
+      url: 'https://medium.com/@aravindnk/',
+    },
   ],
 
   navLinks: [
