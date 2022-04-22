@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Aravindhan is a MBA Student at LPU, who loves learning new things in the intersection of Marketing and Product Management.',
   siteKeywords:
-    'Aravindhan, Aravindhan N, AravindNK, Aravind NK, whoisaravind',
+    'Aravindhan,aravindhan, Aravindhan N, aravindhan n, AravindNK, aravindnk, aravind nk, aravindhan,whoisaravind',
   siteUrl: 'https://aravindnk.com/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'G-Y80GG4QN7N',
