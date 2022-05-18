@@ -1,7 +1,7 @@
 ---
 date: '2021-07-15'
 title: 'Project Management Intern'
-company: 'NPC, Ministry of Commerce and Industry'
+company: 'NPC, Govt of India'
 range: 'August 2021 - September 2021'
 url: 'https://www.npcindia.gov.in/'
 ---
