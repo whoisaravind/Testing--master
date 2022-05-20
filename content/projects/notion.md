@@ -9,4 +9,4 @@ company: ''
 showInProjects: true
 ---
 
-Responsive Portfolio Website built on Notion and hosted on Cloud flare workers.
+Responsive Portfolio Website built on Notion and hosted on Cloud flare.
