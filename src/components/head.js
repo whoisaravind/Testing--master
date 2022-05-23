@@ -70,15 +70,6 @@ const Head = ({ metadata }) => (
     <meta name="msapplication-TileImage" content={msIcon144x144} />
     <meta name="theme-color" content={config.colors.navy} />
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y80GG4QN7N"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-Y80GG4QN7N');
-</script>
   </Helmet>
 );
 
