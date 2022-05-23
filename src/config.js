@@ -6,7 +6,7 @@ module.exports = {
     'Aravindhan, aravindhan, Aravindhan N, aravindhan n, AravindNK, aravindnk, aravind nk,whoisaravind',
   siteUrl: 'https://aravindnk.com/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'G-Y80GG4QN7N',
+  googleAnalyticsID: 'G-V5Q0YYE3S7',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Aravindhan N',
   location: 'Tamil Nadu, India',
