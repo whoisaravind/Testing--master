@@ -7,7 +7,7 @@ module.exports = {
   siteUrl: 'https://aravindnk.com/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'G-V5Q0YYE3S7',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleVerification: '61kSWsFTTAbCQzBHIx489zMlL43Xs84mwm7FFo0ZyHI',
   name: 'Aravindhan N',
   location: 'Tamil Nadu, India',
   email: 'aravindnk@yahoo.com',
