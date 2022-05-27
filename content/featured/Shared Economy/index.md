@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'What Exactly Is a Shared Economy?'
 cover: 'shared.png'
 external: 'https://medium.com/@aravindnk/what-exactly-is-a-shared-economy-ca054474ef8b'
