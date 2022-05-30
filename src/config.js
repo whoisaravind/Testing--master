@@ -23,8 +23,8 @@ module.exports = {
       url: 'https://twitter.com/whoisaravind',
     },
     {
-      name: 'Medium',
-      url: 'https://medium.com/@aravindnk/',
+      name: 'Polywork',
+      url: 'https://www.polywork.com/aravindnk',
     },
   ],
 
