@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'How do payments bank work?'
 cover: 'bank.png'
 external: 'https://medium.com/@aravindnk/how-do-payments-bank-work-8df2a875b0c5'

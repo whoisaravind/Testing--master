@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '4'
 title: 'Product KPI Dashboard'
 cover: 'KPI.png'
 external: 'https://mixpanel.com/project/2645873/view/3183605/app/dashboards#id=2853987'
