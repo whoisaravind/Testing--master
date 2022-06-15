@@ -1,8 +1,8 @@
 ---
-date: '2021-11-30'
+date: '2022-01-30'
 title: 'Market Research Intern '
 company: 'Fashion TV'
-range: 'November 2021 - January 2022'
+range: 'January 2022 - March 2022'
 url: 'https://www.fashiontv.com/'
 ---
 
