@@ -2,7 +2,7 @@
 title: 'Hello World! My name is'
 name: 'Aravindhan N'
 subtitle: 'I love exploring new things!'
-buttonText: 'Hire Me!'
+buttonText: 'Mail Me!'
 ---
 
 An integrated BBA-MBA student at [LPU, Punjab](https://lpu.in) with a dual major in Marketing and Finance and on the Dean's List.
