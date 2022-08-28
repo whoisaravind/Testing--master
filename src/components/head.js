@@ -70,8 +70,6 @@ const Head = ({ metadata }) => (
     <meta name="msapplication-TileImage" content={msIcon144x144} />
     <meta name="theme-color" content={config.colors.navy} />
 
-    <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "1c9d392fd97f46598d02e10286395e56"}'></script><!-- End Cloudflare Web Analytics -->
-
   </Helmet>
 );
 
