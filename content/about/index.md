@@ -2,16 +2,12 @@
 title: 'About Me'
 avatar: 'suitsmile.png'
 skills:
-  - Hubspot
-  - Jira
-  - Hotjar
-  - Figma
-  - Canva
   - Tableau
   - MixPanel
+  - Product Management
+  - Category Marketing
   - Google Analytics
-  - Google Suite
-  - Advanced Excel
+  - Product Analytics
 ---
 
 Hello! Driving the business by staying kind
