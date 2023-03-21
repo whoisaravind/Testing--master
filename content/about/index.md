@@ -10,7 +10,7 @@ skills:
   - Product Analytics
 ---
 
-Hello! Driviing the business by staying kind
+Hello! Driving the business by staying kind
 
 Currently working as a Management Trainee at [BSH](https://www.bsh-group.com/) and outside work, I occasionally blog on [Medium](https://medium.com/@aravindnk).
 
