@@ -5,8 +5,8 @@ subtitle: 'A product of evolution'
 buttonText: 'Mail Me!'
 ---
 
-An integrated BBA-MBA student at [LPU, Punjab](https://lpu.in) with a dual major in Marketing and Finance and on the Dean's List.
+Driving the national business of the Bosch cooking category in [BSH Home Appliances](https://www.bsh-group.com/)
 
-Understanding people and their requirements has proven to be one of my most valuable skills.
+Strategizing the long-term business directions by positioning the brand & developing the right value proposition and offering it as the best choice for the target customer to displace other brands and enhance the experience and lifestyle.
 
 I break things and make a joke out of it!
